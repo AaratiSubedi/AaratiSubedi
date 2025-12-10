@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 
-- 💬 Ask me about **Python,DJango, Leadership, Public Speaking**
+- 💬 Ask me about **Python,DJango, Leadership, Laravel, Public Speaking**
 
 
 <h3 align="left">Connect with me:</h3>
