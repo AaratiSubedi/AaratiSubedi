@@ -26,12 +26,10 @@
 <a href="https://github.com/laravel/framework" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.svg" alt="Laravel" width="30" height="30">
 </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>  
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
 
 </a>
-
 
 </p>
 
