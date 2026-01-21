@@ -23,6 +23,9 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
   <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="30" height="30"/>
+<a href="https://github.com/laravel/framework" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-mark/laravel-logo.svg" alt="Laravel" width="30" height="30">
+</a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
 
